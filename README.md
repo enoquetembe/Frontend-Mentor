@@ -2,7 +2,7 @@
 This repository contains solutions to Frontend Mentor challenges solved by me using 
 **HTML** <img align="center" alt="Enoque-HTML" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
 and **CSS** <img align="center" alt="Enoque-CSS" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-I solved these challenges as a way to learn to improve my HTML and CSS skills
+I solved these challenges as a way to learn and improve my HTML and CSS skills
 <br>
 <hr>
 
